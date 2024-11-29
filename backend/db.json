@@ -1,0 +1,17 @@
+{
+  "produk": [
+    {
+      "id": 1,
+      "nama": "Apel Merah",
+      "harga": 25000,
+      "stok": 50
+    },
+    {
+      "id": 2,
+      "nama": "Pisang Cavendish",
+      "harga": 30000,
+      "stok": 100
+    }
+  ],
+  "pesanan": []
+}
